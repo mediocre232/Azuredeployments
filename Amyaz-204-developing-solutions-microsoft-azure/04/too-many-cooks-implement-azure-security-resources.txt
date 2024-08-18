@@ -1,0 +1,3 @@
+Section 4, Too Many Cooks: Implement Azure Security, Understanding Authentication and Authorization Options, Eggs in Hot Water, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1686270094026-EggsInHotWater.pdf
+
+Section 4, Too Many Cooks: Implement Azure Security, Using Managed Identities, Comparison Chart of Two Types of Managed Identities, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1684945970439-1242_S04_L05_UsingManagedIdentities.png
