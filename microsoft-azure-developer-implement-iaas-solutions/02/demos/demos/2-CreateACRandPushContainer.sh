@@ -7,6 +7,7 @@ az account set --subscription "Demonstration Account"
 az group create \
     --name psdemo-rg \
     --location centralus
+#just for my reference via cli this would be done az group create --name psdemo-rg --location centralus
 
 
 #Step 1 - Create an Azure Container Registry
